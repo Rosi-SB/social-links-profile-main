@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+.container{
+    background-color: hsl(0, 0%, 12%);
+    color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+}
+.image img{
+    border-radius: 100%;
+    padding: 20px;
+}
+.card-title{
+    font-family: Inter, sans-serif;
+    font-weight: 700;
+}
+.card-subtitle{
+    color: hsl(75, 94%, 57%);
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+}    
+.card-text{
+    font-family: Inter, sans-serif;
+    font-size: 14px;
+}
+.card-body{
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    font-family: Inter, sans-serif;
+    font-weight: 600;
+     
+}
+
+.attribution {
+    color: aliceblue;
+    margin-top: 20px;
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
